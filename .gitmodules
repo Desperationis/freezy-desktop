@@ -1,0 +1,15 @@
+[submodule "deps/vkBasalt"]
+	path = deps/vkBasalt
+	url = https://github.com/wheaney/vkBasalt.git
+[submodule "deps/XRLinuxDriver"]
+	path = deps/XRLinuxDriver
+	url = https://github.com/wheaney/XRLinuxDriver.git
+[submodule "deps/sombrero"]
+	path = deps/sombrero
+	url = https://github.com/wheaney/sombrero.git
+[submodule "deps/pyipc"]
+	path = deps/pyipc
+	url = https://github.com/wheaney/PyXRLinuxDriverIPC.git
+[submodule "deps/xreal"]
+	path = deps/xreal
+	url = https://gitlab.com/TheJackiMonster/nrealAirLinuxDriver.git
