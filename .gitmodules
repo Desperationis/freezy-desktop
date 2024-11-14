@@ -10,3 +10,6 @@
 [submodule "deps/pyipc"]
 	path = deps/pyipc
 	url = https://github.com/wheaney/PyXRLinuxDriverIPC.git
+[submodule "deps/xreal"]
+	path = deps/xreal
+	url = https://gitlab.com/TheJackiMonster/nrealAirLinuxDriver.git
