@@ -3,7 +3,7 @@ This project creates an AR desktop environment for the XReal Air only. It is ins
 1. Completely free. I don't want your money.
 2. I don't collect your data at all. 
 3. Works with the XReal Air only, as that's all I have.
-4. Works in any Xorg based window manager (mainly i3 and gnome).
+4. Works in ANY Xorg based window manager, not just GNOME. 
 5. Written from scratch with multiple desktops in mind.
 
 If you're reading this sentence, the project is not in a working state
